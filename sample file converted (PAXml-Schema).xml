@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<paxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.paxml.se/2.0/paxml.xsd">
+<header>
+	<format>LÖNIN</format>
+	<version>2.0</version>
+</header>
+<schematransaktioner>
+	<schema anstid="1">
+		<dag datum="2023-10-16" timmar="1.00" />
+		<dag datum="2023-10-25" timmar="12.50" />
+		<dag datum="2023-11-12" timmar="8.50" />
+		</schema>
+	<schema anstid="1000">
+		<dag datum="2023-04-27" timmar="8.25" />
+		<dag datum="2023-05-16" timmar="7.75" />
+		<dag datum="2023-05-31" timmar="8.33" />
+		<dag datum="2023-10-22" timmar="10.00" />
+		<dag datum="2023-10-23" timmar="9.50" />
+		<dag datum="2023-10-24" timmar="9.50" />
+		<dag datum="2023-10-25" timmar="9.50" />
+		</schema>
+	<schema anstid="954140">
+		<dag datum="2023-07-23" timmar="1.00" />
+		<dag datum="2023-10-17" timmar="1.00" />
+		</schema>
+	<schema anstid="954407">
+		<dag datum="2023-04-14" timmar="8.50" />
+		<dag datum="2023-06-11" timmar="2.00" />
+		<dag datum="2023-06-12" timmar="2.00" />
+		<dag datum="2023-06-13" timmar="2.00" />
+		<dag datum="2023-06-14" timmar="2.00" />
+		<dag datum="2023-06-15" timmar="2.00" />
+		<dag datum="2023-06-16" timmar="2.00" />
+		<dag datum="2023-06-17" timmar="2.00" />
+		<dag datum="2023-07-03" timmar="4.00" />
+		<dag datum="2023-08-06" timmar="1.00" />
+		<dag datum="2023-09-10" timmar="9.00" />
+		<dag datum="2023-09-17" timmar="0.75" />
+		</schema>
+	<schema anstid="954460">
+		<dag datum="2023-03-22" timmar="1.00" />
+		<dag datum="2023-03-22" timmar="11.00" />
+		</schema>
+	<schema anstid="962369">
+		<dag datum="2023-11-02" timmar="1.00" />
+		</schema>
+	<schema anstid="962843">
+		<dag datum="2023-03-03" timmar="9.00" />
+		<dag datum="2023-03-06" timmar="9.00" />
+		</schema>
+	<schema anstid="962954">
+		<dag datum="2023-01-08" timmar="11.63" />
+		<dag datum="2023-01-09" timmar="4.50" />
+		<dag datum="2023-01-10" timmar="7.32" />
+		<dag datum="2023-01-11" timmar="11.98" />
+		<dag datum="2023-01-14" timmar="5.65" />
+		</schema>
+	</schematransaktioner>
+</paxml>
