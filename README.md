@@ -5,5 +5,5 @@ Read more about PAXml 2.0 format here: https://paxml.se/
 # Installation
 Download and run the file 'Install Excel to PAXml Converter.exe'
 
-# Disclaimer: 
+# Disclaimer 
 Use this application at your own risk, always verify the output against the source. I don't guarantee the accuracy or reliability of the output.
